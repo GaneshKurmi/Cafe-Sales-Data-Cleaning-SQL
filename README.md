@@ -285,8 +285,8 @@ Financial Data Analyst | SQL | Power BI | Excel
 
 ### Connect With Me
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub URL)*
+- LinkedIn: *(linkedin.com/in/ganesh-kurmi-62791b241)*
+- GitHub: *(https://github.com/GaneshKurmi/))*
 
 ---
 
